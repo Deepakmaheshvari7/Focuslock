@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FocusLock</string>
+    <string name="a11y_description">FocusLock only checks which app is in the foreground during a focus session, so it can show the Stay Focused screen over apps you chose to block. It does not read screen content or typed text, and nothing leaves your phone.</string>
+</resources>
